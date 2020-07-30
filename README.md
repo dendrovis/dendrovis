@@ -1,5 +1,5 @@
 
-
+Everlearning :heavy_exclamation_mark:
 <details>
 <summary>:clipboard:What am I currently working on :question:</summary>
   <br> :bulb: Various <strong>school projects</strong> at the moments.</br> 
@@ -19,4 +19,4 @@
 :construction: < Work In Progress > :construction:
 
 _Stay save :mask: and have a nice day:heavy_exclamation_mark:_:smile::v:	
-<h2> Everlearning :heavy_exclamation_mark: </h2>
+
