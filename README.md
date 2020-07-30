@@ -1,5 +1,5 @@
 
-Everlearning :heavy_exclamation_mark:
+<h3> Everlearning :heavy_exclamation_mark: </h3>
 <details>
 <summary>:clipboard:What am I currently working on :question:</summary>
   <br> :bulb: Various <strong>school projects</strong> at the moments.</br> 
