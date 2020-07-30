@@ -1,4 +1,5 @@
-### More about me:heavy_exclamation_mark:
+<h2> Ever Learn :heavy_exclamation_mark: </h2>
+
 <details>
 <summary>:star:What am I currently working on :question:</summary>
   <br> :bulb: Various <strong>school projects</strong> at the moments.</br> 
