@@ -2,8 +2,9 @@
 <h3> Everlearning :heavy_exclamation_mark: </h3>
 <details>
 <summary>:clipboard:What am I currently working on :question:</summary>
-  <br> :bulb: Various <strong>school projects</strong> at the moments.</br> 
-<br> :bulb: Exploring and learning <strong>new knowledge</strong> on my free time.</br>
+  <br> :bulb: Exploring and experiencing new tech stack: <strong>REACT, GoLang</strong> at the moment.</br> 
+  <br> :bulb: Recap and expand knowledge: <strong>JavaScript</strong>.</br> 
+  <br> :bulb: Focus Project: Building Simple portfolios with new tech stack.</br>
 </details>
 
 <details> 
