@@ -2,9 +2,9 @@
 <h3> Everlearning :heavy_exclamation_mark: </h3>
 <details>
 <summary>:clipboard:What am I currently working on :question:</summary>
-  <br> :bulb: Exploring and experiencing new tech stack: <strong>REACT, GoLang</strong> at the moment.</br> 
-  <br> :bulb: Recap and expand knowledge: <strong>JavaScript</strong>.</br> 
-  <br> :bulb: Focus Project: Building Simple portfolios with new tech stack.</br>
+  <br> :bulb: Exploring and experiencing new tech stack: <strong>Framework/Architecture/Configuration/Bundler</strong> at the moment.</br> 
+  <br> :bulb: Recap and expand knowledge: <strong>Front-End</strong>.</br> 
+  <br> :bulb: Focus Project: Building Simple portfolios.</br>
 </details>
 
 <details> 
