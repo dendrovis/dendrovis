@@ -19,6 +19,7 @@ Thank you for stopping by. Stay awesome!!!
 
 ### Tools we played with
 
+<span>
 <img id="programming-language-1" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="45" height="45"/>
 <img id="programming-language-2" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="45" height="45"/>
 <img id="programming-language-3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="Bash" width="45" height="45"/>
@@ -61,12 +62,13 @@ Thank you for stopping by. Stay awesome!!!
 <img id="package-manager-2" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/homebrew/homebrew.png" alt="HomeBrew" width="45" height="45"/>
 <img id="cicd" src="https://raw.githubusercontent.com/github/explore/2c7e603b797535e5ad8b4beb575ab3b7354666e1/topics/actions/actions.png" alt="Github Actions" width="45" height="45"/>
 <img id="code-formatter-1" src="https://avatars.githubusercontent.com/u/25822731" alt="Prettier" width="45" height="45"/>
-<img id="code-analysis-1"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" alt="ESLint" width="45" height="45"/>
+<img id="code-analysis-1" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" alt="ESLint" width="45" height="45"/>
 <img id="module-bundler" src="https://avatars.githubusercontent.com/u/12554859" alt="Rollup" width="45" height="45"/>
 <img id="development-environment-tool-1" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png" alt="StoryBook" width="45" height="45"/>
 <img id="chatbot-1" src="https://raw.githubusercontent.com/github/explore/ea47449629d663f4ca24763890b9b8b395069d3b/topics/chatgpt-api/chatgpt-api.png" alt="ChatGPT" width="45" height="45"/>
 <img id="operating-system-1" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" alt="WinOS" width="45" height="45"/>
 <img id="operating-system-2" src="https://raw.githubusercontent.com/github/explore/5aa5d7e7250d5a637f32abf934b135411c265db8/topics/apple/apple.png" alt="iOS" width="45" height="45"/>
+</span>
 
 ### Contacts
 
